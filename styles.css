@@ -1,0 +1,46 @@
+body {
+  /* Add styles here! */
+  background-color: #8D66C7;
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    width: 70%;
+    max-width: 900px;
+    text-align: center;
+    background-color: #6D46A7;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+p {
+    text-align: left;
+}
+
+input {
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    
+}
+
+button {
+     border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+    transition: border-color 0.3s ease, box-shadow 0.3s ease;
+    padding: 5px;
+}
+
+img {
+    border-radius: 4px;
+}
