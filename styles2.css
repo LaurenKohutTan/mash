@@ -1,0 +1,42 @@
+body {
+  /* Add styles here! */
+    text-align: center;
+    background-color: #f2f2f2;
+    margin-top: 40px;
+}
+
+h1 {
+    color: darkblue;
+}
+
+h3 {
+    color: gray;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 8px;
+    width: 200px;
+}
+
+button {
+    padding: 8px 15px;
+    margin-top: 10px;
+    background-color: darkblue;
+    color: white;
+}
+
+button:hover {
+    background-color: blue;
+}
+
+p {
+    margin-top: 15px;
+    font-weight: bold;
+}
+
+.mash-img {
+    width: 200px;
+    margin-bottom: 20px;
+}
